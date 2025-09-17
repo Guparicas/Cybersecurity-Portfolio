@@ -1,2 +1,3 @@
 # Cybersecurity-Portfolio
 What I'm working on.
+I'm currently a teacher looking to transition into the CyberSecurity space. Knowing how competitive this industry is, and taking into account Cybersecurity is not considered an "entry-level" position, I'm doing everything I can to ensure I'm a quality candidate for prospective empployers. I'm working toward finishing my degree at Western Governors University in the Spring of 2027. I currently hold CompTia A+, Net+, Sec+, and ISC2 SSCP (Associate) certifications. I will be working to complete my CySA+ in the following months. More importantly, this will be a repository of all the hands-on projects to help demonstrate what I can currenly do.
